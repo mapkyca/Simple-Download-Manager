@@ -38,4 +38,11 @@ DownloadManager::registerProduct(
 
 ?>
 
+Triggering a download:
+----------------------
+
+- Pass your product id as a variable ?productid=xxxxx
+
+You can mask this with modrewrite.
+
 Happy downloads!
